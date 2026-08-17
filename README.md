@@ -57,11 +57,9 @@ landing-page-clarity/
 
 ## Live Demo
 
- https://shahendamohamed22.github.io/landing-page-clarity/
+ https://shahendamohamed22.github.io/clarity-landing-page/
 
 ## Author
 
 **Shahenda Mohamed**
 GitHub: [@shahendamohamed22](https://github.com/shahendamohamed22)
-
-
